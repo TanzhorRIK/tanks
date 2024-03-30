@@ -1,6 +1,6 @@
 <h1>Данный проект создан как учебный для аттестации в ЯЛ Д2</h1>
 <h2>Основной код</h2>
-![Без имени](https://github.com/TanzhorRIK/tanks/assets/128683887/3e85bd74-d3d0-4fac-8d4b-0dce638d6ba0)
+<image src="https://github.com/TanzhorRIK/tanks/assets/128683887/3e85bd74-d3d0-4fac-8d4b-0dce638d6ba0">
 
 
 <p>
