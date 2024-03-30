@@ -1,6 +1,7 @@
 <h1>Данный проект создан как учебный для аттестации в ЯЛ Д2</h1>
 <h2>Основной код</h2>
-![image](https://github.com/TanzhorRIK/tanks/assets/128683887/90272dde-9359-4ed4-b6c7-f2f8b826ddc9)
+![Без имени](https://github.com/TanzhorRIK/tanks/assets/128683887/3e85bd74-d3d0-4fac-8d4b-0dce638d6ba0)
+
 
 <p>
     лежит в основном каталоге и имеет имя main.py
