@@ -1,2 +1,2 @@
-starts: 9
-killed tanks: 21
+starts: 0
+killed tanks: 0
