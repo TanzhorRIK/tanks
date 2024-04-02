@@ -1,8 +1,8 @@
 import pygame
-import src.utils.classes
+import src.utils.classes as classes
 
 
 if __name__ == "__main__":
     pygame.init()
     pygame.mixer.init()
-    src.utils.classes.Game().game_intro()
+    classes.Game().game_intro()
